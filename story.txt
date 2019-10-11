@@ -3,3 +3,5 @@ Once upon a time, there was a programmer named Owen. He sat in CS400 every day, 
 And then one day Professor Deppeler lectured on hash tables, a way to store data that made it seem like learning all of CS 300 was all for naught. Owen felt betrayed. But it was explained to him that we needed to learn all of the other data structures first to become a more well rounded programmer. 
 
 The more Owen thought about it, the more hash tables made sense. I mean, if properly implimented, hash tables yield O(1) complexity. Astounding!
+
+And that concludes Owen's journey in cs400 so far.
