@@ -5,3 +5,5 @@ And then one day Professor Deppeler lectured on hash tables, a way to store data
 The more Owen thought about it, the more hash tables made sense. I mean, if properly implimented, hash tables yield O(1) complexity. Astounding!
 
 And that concludes Owen's journey in cs400 so far.
+
+Yet he knows, that even having learned so much so far, he still has lots to go, and eagerly awaits every second of it. The End.
